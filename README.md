@@ -1,4 +1,4 @@
-# ToDo App
+# Favorite Song App
 
 A new Flutter project.
 
